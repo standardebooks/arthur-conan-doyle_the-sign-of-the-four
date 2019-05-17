@@ -26,25 +26,26 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Sign of the Four</dc:title>
 		<meta property="file-as" refines="#title">Sign of the Four, The</meta>
 		<dc:subject id="subject-1">Holmes, Sherlock (Fictitious character) -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Private investigators -- England -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Detective and mystery stories</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/2097</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/2097</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/2097</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008109474</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85037260</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
 		<meta property="se:collection">Sherlock Holmes</meta>
 		<dc:description id="description">An analytical detective is consulted by a young woman who has received a strange communication regarding her long-missing father and a mysterious treasure.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Sign of the Four&lt;/i&gt;, initially titled just &lt;i&gt;The Sign of Four&lt;/i&gt;, is the second of Doyle’s novels to feature the analytical detective Sherlock Holmes and his faithful companion and chronicler Dr. Watson. The action takes place not long after the events in &lt;i&gt;A Study in Scarlet&lt;/i&gt;, the first Holmes novel, and that prior case is referred to frequently at the beginning of this one.&lt;/p&gt;
 			&lt;p&gt;Holmes is consulted by a young woman about a strange communication she has received. Ten years previously her father Captain Morstan went missing the night after returning from service in the Far East before his daughter could travel to meet him. He has never been seen or heard of ever since. But a few years after his disappearance, Miss Morstan was startled to receive a precious pearl in the mail, with no sender’s name or address and no accompanying message. A similar pearl has arrived each subsequent year. Finally, she received an anonymous letter begging her to come to a meeting outside a London theater that very evening. She may bring two companions. Naturally, Holmes and Watson accompany the young woman to the mysterious meeting, and are subsequently involved in the unveiling of a complex story of treasure and betrayal.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2097</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/011682636</dc:source>

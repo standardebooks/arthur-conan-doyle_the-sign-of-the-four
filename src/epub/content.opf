@@ -44,6 +44,9 @@
 		<meta id="collection-1" property="belongs-to-collection">Sherlock Holmes</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
+		<meta id="collection-2" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">26</meta>
 		<dc:description id="description">An analytical detective is consulted by a young woman who has received a strange communication regarding her long-missing father and a mysterious treasure.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Sign of the Four&lt;/i&gt;, initially titled just &lt;i&gt;The Sign of Four&lt;/i&gt;, is the second of &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle"&gt;Doyle’s&lt;/a&gt; novels to feature the analytical detective &lt;a href="https://standardebooks.org/collections/sherlock-holmes"&gt;Sherlock Holmes&lt;/a&gt; and his faithful companion and chronicler &lt;abbr&gt;Dr.&lt;/abbr&gt; Watson. The action takes place not long after the events in &lt;a href="https://standardebooks.org/ebooks/arthur-conan-doyle/a-study-in-scarlet"&gt;&lt;i&gt;A Study in Scarlet&lt;/i&gt;&lt;/a&gt;, the first Holmes novel, and that prior case is referred to frequently at the beginning of this one.&lt;/p&gt;

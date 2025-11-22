@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Sign of the Four</dc:title>
 		<meta property="file-as" refines="#title">Sign of the Four, The</meta>
-		<meta property="dcterms:alternate" refines="#title">The Sign of the 4</meta>
+		<meta property="dcterms:alternative" refines="#title">The Sign of the 4</meta>
 		<dc:subject id="subject-1">Holmes, Sherlock (Fictitious character) -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Private investigators -- England -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Detective and mystery stories</dc:subject>
